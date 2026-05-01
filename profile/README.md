@@ -1,6 +1,8 @@
-# Hey, this is Windows12 Online 👋
+# Hey, there is Windows12 Online 👋
 
-We are responsible for maintaining the [Win12](https://github.com/win12-online/win12) project and a series of dependent services related to it.
+We are here maintaining the [Win12](https://github.com/win12-online/win12) project and a series of dependent services related to it.
+
+And you can find more information about us on [our website](https://win12-online.github.io) (strictly speaking, just a webpage).
 
 ## Contact Us
 ### Email Contact
